@@ -16,6 +16,7 @@
     </dependency>
   </dependencies>
   <build>
+  <!--
     <finalName>java-tomcat-maven-example</finalName>
     <plugins>
       <plugin>
@@ -40,5 +41,6 @@
         </executions>
       </plugin>
     </plugins>
+    -->
   </build>
 </project>
