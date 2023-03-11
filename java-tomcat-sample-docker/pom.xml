@@ -18,7 +18,7 @@
   <build>
   
     <finalName>java-tomcat-maven-example</finalName>
-    <!--
+  
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -42,6 +42,6 @@
         </executions>
       </plugin>
     </plugins>
-    -->
+    
   </build>
 </project>
